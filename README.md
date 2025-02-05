@@ -2,6 +2,6 @@
 
 Este repositório contém materiais para aprender Arduino. Abaixo estão os arquivos disponíveis:
 
-- [Guia Básico de Arduino](ebooks/guia-basico-arduino.pdf)
+- [Guia Básico de Arduino](brian_w.evans/arduino_notebook.pdf)
 - [Projetos Avançados com Arduino](ebooks/projetos-avancados-arduino.pdf)
 - [Tutoriais para Iniciantes](tutoriais/tutorial-iniciantes.pdf)
