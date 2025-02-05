@@ -2,7 +2,8 @@
 
 Este repositório contém materiais para aprender Arduino. Abaixo estão os arquivos disponíveis:
 
-# Brian W. Evams: {
+# Brian W. Evams: 
+{
 - [Arduino Programming Notebook](brian_w.evans/arduino_notebook.pdf)
 
 
