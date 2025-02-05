@@ -9,7 +9,10 @@ Este repositório contém materiais para aprender Arduino. Abaixo estão os arqu
 
 }
 
-
-
-- [Projetos Avançados com Arduino](ebooks/projetos-avancados-arduino.pdf)
-- [Tutoriais para Iniciantes](tutoriais/tutorial-iniciantes.pdf)
+# Michael Margolis:
+{
+- [Projetos Avançados com Arduino](/MIchael Margolis/Meichael_Margolis_-_Arduino_Cookbook.pdf)
+}                                                                                                                                                             # Simon Monk:
+{       
+- [Tutoriais para Iniciantes](/Simon Monk/Programming-Arduino.pdf)
+}                                                                                                         
